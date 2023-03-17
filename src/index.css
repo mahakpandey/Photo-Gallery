@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+
+*{
+  margin: 0 ;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #EAEAEA;
+
+}
+
+h1{
+color: #3C4048;
+font-family: 'Libre Baskerville', serif;
+}
+
+/* ------HEADING------ */
+
+.main-heading{
+  text-align: center;
+  margin: 2% 0;
+}
+
+.menu-tab{
+  display: flex;
+  justify-content:space-around;
+}
+
+/* ------NAVBAR------ */
+
+.navbar {
+  padding-top: 50px;
+  text-align: center;
+  background-color: #B2B2B2;
+}
+
+.container{
+  padding-top: clamp(2% ,1%, 1% );
+  padding-left: clamp(15%, 20%, 20%);
+  padding-right: clamp(15%, 20%, 20%);
+  margin-bottom: clamp(3% ,3%, 1% );
+}
+
+
+.btn{
+  background-color: #00ABB3;
+  color: #EAEAEA ;
+  border: none;
+  font-size: clamp(13px,13px,30px);
+  height: clamp(15px,30px,30px);
+ 
+}
+
+.btn:hover{
+  background-color: #00777e;
+  color: #EAEAEA;
+  cursor: pointer;
+  
+  }
+
+/*------ MENU ITEM ------*/
+
+.card-container{
+width: 300px;
+overflow: hidden;
+box-shadow: 0px 0px 15px -5px;
+transition: 0.3s;
+animation: ease-in;
+position: absolute;
+left: 3%;
+margin-top: 3%;
+
+}
+
+.card-container:hover{
+  transform: scale(1.1);
+  box-shadow: 0px 0px 15px -5px;
+}
+
+.card-content{
+  margin: 1rem;
+  margin-top: 0.5rem;
+}
+
+.img-container img{
+  overflow: hidden;
+  height: 200px;
+
+}
+
+h1, p{
+  margin:0 ;
+  padding: 0;
+}
+
+.card-title{
+  margin-bottom: 0.5rem;
+}
+
+.btn button:hover{
+  padding: 0.5rem;
+  font-weight: bold;
+}
