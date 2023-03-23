@@ -7,7 +7,7 @@ const Nature = () => {
   return (
     <>
     <div className='internal-header'>
-      <Link to="/" className='link-text'><button className="btn  btn-primary" > Home</button></Link>
+      <Link to="/" className='link-text'><button className="btn-header" > Home</button></Link>
       
       </div>
       <h1>NATURE</h1>

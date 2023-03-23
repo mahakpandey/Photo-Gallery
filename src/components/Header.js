@@ -21,12 +21,12 @@ const filterItem = (val)=>{
         <h1 className="main-heading swing">Photo Gallery</h1>
         <hr />
         <div className="menu-tab ">
-        <Link to="/" className='link-text'><button className="btn btn-primary btn-header" > Home</button></Link>
+        <Link to="/" className='link-text'><button className=" btn-header" > Home</button></Link>
         <Link to="Plant" className='link-text'><button className=" btn-header" > Plant</button></Link>
-        <Link to="Animal" className='link-text'><button className="btn  btn-primary" > Animal</button></Link>
-        <Link to="Mountain" className='link-text'><button className="btn  btn-primary" onClick={()=>filterItem("Mountain")} > Mountain</button></Link>
-        <Link to="Nature" className='link-text'><button className="btn  btn-primary" > Nature</button></Link>
-        <Link to="All" className='link-text'><button className="btn  btn-primary" > All</button></Link>
+        <Link to="Animal" className='link-text'><button className="btn-header " > Animal</button></Link>
+        <Link to="Mountain" className='link-text'><button className="btn-header " onClick={()=>filterItem("Mountain")} > Mountain</button></Link>
+        <Link to="Nature" className='link-text'><button className="btn-header " > Nature</button></Link>
+        <Link to="All" className='link-text'><button className="btn-header " > All</button></Link>
         </div>
       
     </nav>

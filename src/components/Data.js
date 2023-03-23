@@ -3,140 +3,140 @@ const Data = [
     {
         id: 1,
         image: "image/plant1.jpg",
-        name: "plant1",
-        category: "plant"
+        name: "Plant1",
+        category: "Plant"
     },
     
     {
       id: 2,
       image: "image/plant2.jpg",
-      name: "plant2",
-      category: "plant"
+      name: "Plant2",
+      category: "Plant"
     },
     
     {
       id: 3,
       image: "image/plant3.jpg",
-      name: "plant3",
-      category: "plant"
+      name: "Plant3",
+      category: "Plant"
     },
     
     {
       id: 4,
       image: "image/plant4.jpg",
-      name: "plant4",
-      category: "plant"
+      name: "Plant4",
+      category: "Plant"
     },
     
     {
       id: 5,
       image: "image/plant5.jpg",
-      name: "plant5",
-      category: "plant"
+      name: "Plant5",
+      category: "Plant"
     },
     {
       id: 6,
       image: "image/animal1.jpg",
-      name: "animal1",
-      category: "animal"
+      name: "Animal1",
+      category: "Animal"
     },
     
     {
       id: 7,
       image: "image/animal2.jpg",
-      name: "animal2",
-      category: "animal"
+      name: "Animal2",
+      category: "Animal"
     },
     
     {
       id: 8,
       image: "image/animal3.jpg",
-      name: "animal3",
-      category: "animal"
+      name: "Animal3",
+      category: "Animal"
     },
     
     {
       id: 9,
       image: "image/animal4.jpg",
-      name: "animal4",
-      category: "animal"
+      name: "Animal4",
+      category: "Animal"
     },
     
     {
       id: 10,
       image: "image/animal5.jpg",
-      name: "animal5",
-      category: "animal"
+      name: "Animal5",
+      category: "Animal"
     },
     
     {
       id: 11,
       image: "image/mountain1.jpg",
-      name: "mountain1",
-      category: "mountain"
+      name: "Mountain1",
+      category: "Mountain"
     },
     
     {
       id: 12,
       image: "image/mountain2.jpg",
-      name: "mountain2",
-      category: "mountain"
+      name: "Mountain2",
+      category: "Mountain"
     },
     
     {
       id: 13,
       image: "image/mountain3.jpg",
-      name: "mountain3",
-      category: "mountain"
+      name: "Mountain3",
+      category: "Mountain"
     },
     
     {
       id: 14,
       image: "image/mountain4.jpg",
-      name: "mountain4",
-      category: "mountain"
+      name: "Mountain4",
+      category: "Mountain"
     },
     
     {
       id: 15,
       image: "image/mountain5.jpg",
-      name: "mountain5",
-      category: "mountain"
+      name: "Mountain5",
+      category: "Mountain"
     },
     
     {
       id: 16,
       image: "image/nature1.jpg",
-      name: "nature1",
-      category: "nature"
+      name: "Nature1",
+      category: "Nature"
     },
     
     {
       id: 17,
       image: "image/nature2.jpg",
-      name: "nature2",
-      category: "nature"
+      name: "Nature2",
+      category: "Nature"
     },
     
     {
       id: 18,
       image: "image/nature3.jpg",
-      name: "nature3",
-      category: "nature"
+      name: "Nature3",
+      category: "Nature"
     },
     
     {
       id: 19,
       image: "image/nature4.jpg",
-      name: "nature4",
-      category: "nature"
+      name: "Nature4",
+      category: "Nature"
     },
     
     {
       id: 20,
       image: "image/nature5.jpg",
-      name: "nature5",
-      category: "nature"
+      name: "Nature5",
+      category: "Nature"
     }
     
     ];
